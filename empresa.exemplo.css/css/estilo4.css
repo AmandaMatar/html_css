@@ -1,0 +1,30 @@
+body {
+    font-size: 32px;
+}
+
+a {
+    /*
+    border-width: thick;
+    border-color: red;
+    border-style: solid;
+    */
+
+    border: thick blue solid;
+    border-bottom: 5px dotted #0f0;
+    border-right: 5px dotted #0f0;
+}
+
+p {
+    width: 300px;
+    height: 300px;
+
+    background-color: #ccc;
+
+    border: 5px solid black;
+    border-radius: 10px;
+    border-top-right-radius: 50px;
+
+    /*
+    boder-radius: 20px 10px 0px 50px;
+    */
+}
