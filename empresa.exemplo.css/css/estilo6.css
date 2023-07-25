@@ -17,5 +17,9 @@ p {
 }
 
 .frase1 {
-    margin: 10px 0px 100px 50px;
+    margin: 10px 0 100px 50px;
+}
+
+.frase2 {
+    margin: 0  auto;
 }
